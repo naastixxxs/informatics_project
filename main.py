@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import random
 import tkinter as tk
 from tkinter import messagebox
